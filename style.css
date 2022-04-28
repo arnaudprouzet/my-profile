@@ -303,7 +303,8 @@ color: white;
 }
 
 
-/* footer */
+/* 
+*/
 
 .footer {
   background: #D79A10;
@@ -321,6 +322,7 @@ color: white;
   display: flex;
   align-items: center;
   justify-content: center;
+    margin: 0px auto;
 }
 
 /* Pour le responsive */
