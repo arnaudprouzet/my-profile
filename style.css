@@ -8,7 +8,8 @@ html {
 
 /* Elements généraux style*/
 body {
-  background-image:linear-gradient(0deg, rgba(0,0,0,0.7) 40%, rgba(0,0,0,1) 100%), url(images/bgmarbreblack.png)  color: #767676;
+  background-image:linear-gradient(0deg, rgba(0,0,0,0.7) 40%, rgba(0,0,0,1) 100%), url(images/bgmarbreblack.png);  
+  color: #767676;
   font-family: 'Muli','Arial', serif;
   font-size: 15px;
   font-weight: lighter;
