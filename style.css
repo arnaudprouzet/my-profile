@@ -326,14 +326,14 @@ color: white;
 /* Pour le responsive */
 
 .container {
-  width: 750px;
+  width: 700px;
   margin: 20px auto;
 }
 
 @media (min-width: 960px) {
 
   .container {
-    width: 800px;
+    width: 900px;
   }
   .cards-carousel {
     grid-template-columns: 1fr 1fr;
